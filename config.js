@@ -249,7 +249,7 @@ const config = {
         es: {
             flag: "id", name: "Indonesian",
             nav: { home: "Home", staff: "Staff", rules: "Peraturan", faq: "FAQ", vote: "Vote" },
-            hero: { subtitle: "SERVER JAVA DAN BEDROCK", btn_copy: "COPY IP", online: "en línea" },
+            hero: { subtitle: "SERVER JAVA DAN BEDROCK", btn_copy: "SALIN ALAMAT", online: "en línea" },
             titles: { staff: "STAFF", rules: "PERATURAN SERVER", faq: "PERTANYAAN YANG SERING DIAJUKAN (FAQ)", vote: "VOTE UNTUK SERVER", legal: "LEGAL CENTER" },
             legal_tabs: { tos: "Ketentuan", priv: "Privasi", notice: "Pemberitahuan Hukum" }
         },
