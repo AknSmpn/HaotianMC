@@ -249,14 +249,14 @@ const config = {
         es: {
             flag: "id", name: "Indonesian",
             nav: { home: "Home", staff: "Staff", rules: "Peraturan", faq: "FAQ", vote: "Vote" },
-            hero: { subtitle: "SERVER JAVA DAN BEDROCK", btn_copy: "COPY IP", online: "en línea" },
+            hero: { subtitle: "SERVER JAVA DAN BEDROCK", btn_copy: "COPY", online: "en línea" },
             titles: { staff: "STAFF", rules: "PERATURAN SERVER", faq: "PERTANYAAN YANG SERING DIAJUKAN (FAQ)", vote: "VOTE UNTUK SERVER", legal: "LEGAL CENTER" },
             legal_tabs: { tos: "Ketentuan", priv: "Privasi", notice: "Pemberitahuan Hukum" }
         },
         en: {
             flag: "us", name: "English",
             nav: { home: "Home", staff: "Staff", rules: "Rules", faq: "FAQ", vote: "Vote" },
-            hero: { subtitle: "JAVA AND BEDROCK SERVER", btn_copy: "COPY IP", online: "online" },
+            hero: { subtitle: "JAVA AND BEDROCK SERVER", btn_copy: "COPY", online: "online" },
             titles: { staff: "STAFF", rules: "SERVER RULES", faq: "FREQUENTLY ASKED QUESTIONS", vote: "VOTE FOR US", legal: "LEGAL CENTER" },
             legal_tabs: { tos: "Terms", priv: "Privacy", notice: "Legal Notice" }
         }
