@@ -101,9 +101,9 @@ const config = {
         faq: [
             { 
                 q_es: "Apa IP servernya?", 
-                a_es: "IP untuk terhubung adalah <b>HaotianMC.net</b>. Server ini mendukung Minecraft Java Edition versi 1.16 hingga 1.21.",
+                a_es: "IP untuk terhubung adalah <b>play.houtianmc.my.id</b>. Server ini mendukung Minecraft Java Edition versi 1.16 hingga 1.21.",
                 q_en: "What is the Server IP?", 
-                a_en: "The connection IP is <b>HaotianMC.net</b>. The server supports Minecraft Java Edition versions 1.16 through 1.21."
+                a_en: "The connection IP is <b>play.houtianmc.my.id</b>. The server supports Minecraft Java Edition versions 1.16 through 1.21."
             },
             { 
                 q_es: "Apakah Premium atau Non-Premium?", 
