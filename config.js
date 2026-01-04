@@ -101,9 +101,9 @@ const config = {
         faq: [
             { 
                 q_es: "Apa IP servernya?", 
-                a_es: "IP untuk terhubung adalah <b>play.HaotianMC.net</b>. Server ini mendukung Minecraft Java Edition versi 1.16 hingga 1.21.",
+                a_es: "IP untuk terhubung adalah <b>HaotianMC.net</b>. Server ini mendukung Minecraft Java Edition versi 1.16 hingga 1.21.",
                 q_en: "What is the Server IP?", 
-                a_en: "The connection IP is <b>play.HaotianMC.net</b>. The server supports Minecraft Java Edition versions 1.16 through 1.21."
+                a_en: "The connection IP is <b>HaotianMC.net</b>. The server supports Minecraft Java Edition versions 1.16 through 1.21."
             },
             { 
                 q_es: "Apakah Premium atau Non-Premium?", 
@@ -185,7 +185,7 @@ const config = {
                 <h3>Información Perusahaan</h3>
                 <ul>
                     <li><b>Nama Legal:</b> HaotianMC Networks S.L.</li>
-                    <li><b>Alamat:</b> Calle Falsa 123, Madrid, Spanyol (Kantor operasional di Istanbul, Turki)</li>
+                    <li><b>Alamat:</b> Tugu Jogja, Jogja, Indonesia </li>
                     <li><b>Nomor Pajak:</b> ES-B12345678</li>
                     <li><b>Kontak Legal:</b> HaotianMC.net</li>
                 </ul>
@@ -249,7 +249,7 @@ const config = {
         es: {
             flag: "id", name: "Indonesian",
             nav: { home: "Home", staff: "Staff", rules: "Peraturan", faq: "FAQ", vote: "Vote" },
-            hero: { subtitle: "SERVER JAVA DAN BEDROCK", btn_copy: "SALIN ALAMAT", online: "en línea" },
+            hero: { subtitle: "SERVER JAVA DAN BEDROCK", btn_copy: "COPY IP", online: "en línea" },
             titles: { staff: "STAFF", rules: "PERATURAN SERVER", faq: "PERTANYAAN YANG SERING DIAJUKAN (FAQ)", vote: "VOTE UNTUK SERVER", legal: "LEGAL CENTER" },
             legal_tabs: { tos: "Ketentuan", priv: "Privasi", notice: "Pemberitahuan Hukum" }
         },
