@@ -6,7 +6,7 @@ const config = {
     // 1. INFO SERVIDOR
     serverName: "HaotianMC",
     serverIp: "basic-6.alstore.space:25575",
-    serverLogo: "logo.png", // Asegúrate de que existe
+    serverLogo: "Logo.png", // Asegúrate de que existe
     // El favicon se carga automáticamente si se llama "favicon.png"
 
     // 2. REDES SOCIALES
