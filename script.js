@@ -122,7 +122,7 @@ function copyIp() {
     const actionText = document.getElementById('hero-btn-copy');
     navigator.clipboard.writeText(config.serverIp).then(() => {
         wrapper.classList.add('copied');
-        actionText.innerText = "¡COPIADO!";
+        actionText.innerText = "COPIED";
         setTimeout(() => {
             wrapper.classList.remove('copied');
             actionText.innerText = config.interface[currentLangCode].hero.btn_copy;
