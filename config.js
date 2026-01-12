@@ -49,16 +49,17 @@ const config = {
                 bio_en: "Community manager, events coordinator and conflict resolution."
             },
             { 
+                name: "ItsMeKaramm", role: "Admin", 
+                bio_es: "Menangani laporan, pengawasan, serta support user",
+                bio_en: "In charge of reports, surveillance, and user support."
+            },
+            { 
                 name: "K43dee", role: "DEVELOPER", 
                 bio_es: "Mengembangkan plugin dan mengoptimalkan server",
                 bio_en: "Plugin developer and server optimization specialist."
             },
             
-            { 
-                name: "ItsMeKaramm", role: "MODERATOR", 
-                bio_es: "Menangani laporan, pengawasan, serta support user",
-                bio_en: "In charge of reports, surveillance, and user support."
-            }
+            
         ],
 
         // --- REGLAS (8 Reglas Comunes) ---
