@@ -44,6 +44,11 @@ const config = {
                 bio_en: "Project founder, in charge of technical development and systems."
             },
             { 
+                name: "K43dee", role: "DEVELOPER", 
+                bio_es: "Mengembangkan plugin dan mengoptimalkan server",
+                bio_en: "Plugin developer and server optimization specialist."
+            },
+            { 
                 name: "AbiiGanzz", role: "ADMIN", 
                 bio_es: "Community manager yang mengurus event dan penyelesaian konflik",
                 bio_en: "Community manager, events coordinator and conflict resolution."
@@ -53,11 +58,7 @@ const config = {
                 bio_es: "Menangani laporan, pengawasan, serta support user",
                 bio_en: "In charge of reports, surveillance, and user support."
             },
-            { 
-                name: "K43dee", role: "DEVELOPER", 
-                bio_es: "Mengembangkan plugin dan mengoptimalkan server",
-                bio_en: "Plugin developer and server optimization specialist."
-            },
+            
             
             
         ],
