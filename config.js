@@ -55,8 +55,8 @@ const config = {
             },
             { 
                 name: "ItsMeKaramm", role: "Admin", 
-                bio_es: "Menangani laporan, pengawasan, serta support user",
-                bio_en: "In charge of reports, surveillance, and user support."
+                bio_es: "Community manager yang mengurus event dan penyelesaian konflik",
+                bio_en: "Community manager, events coordinator and conflict resolution."
             },
             
             
